@@ -1,5 +1,5 @@
 # 📌 简要
-补档3.3.6版本，不再提供新功能和维护，坏人太多，弄封了两个tg号，sleazyfork的脚本也被恶意举报
+补档<a href="https://github.com/t19527/JAV-JHS/raw/refs/heads/main/JAV-JHS-3.3.6.user.js" target="_blank">3.3.6版本</a>，不再提供新功能和维护，坏人太多，弄封了两个tg号，sleazyfork的脚本也被恶意举报
 
 # ✨ 功能说明
 ## 🎯 免Vip功能
