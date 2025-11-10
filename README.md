@@ -1,5 +1,7 @@
 # 📌 简要
-补档<a href="https://github.com/t19527/JAV-JHS/raw/refs/heads/main/JAV-JHS-3.3.6.user.js" target="_blank">3.3.6版本</a>，不再提供新功能和维护，坏人太多，弄封了两个tg号，sleazyfork的脚本也被恶意举报
+补档<a href="https://github.com/t19527/JAV-JHS/raw/refs/heads/main/JAV-JHS-3.3.6.user.js" target="_blank">3.3.6版本</a>，不再对外提供新功能和维护，坏人太多，弄封了两个tg号，sleazyfork的脚本也被恶意举报
+
+往期打赏者，可提供截图，领取最新版本JAV-JHS, TG号: https://t.me/t_19527
 
 # ✨ 功能说明
 ## 🎯 免Vip功能
@@ -37,6 +39,14 @@
 
 # 📜 更新记录
 ## JAV-JHS
+v3.4.2 已收藏女优支持名字检索; 优化按钮样式; 重构bus导航栏自适应宽度
+
+v3.4.1 优化日志控制台json格式的展示; localStorage缓存溢出时自动清理
+
+v3.4.0 JavBus支持收藏演员、新作品检测; 修复javdb存在播放容器,却无播放入口的情况
+
+v3.3.9 同步策略优化; 优化多标签刷新广播通知
+
 v3.3.8 支持JavDb|JavBus相互同步数据
 
 v3.3.7 收藏演员-支持快捷跳转bus对应演员页; 
