@@ -36,9 +36,19 @@
 1. 自动同步已收藏的演员信息, 支持新作品检测功能
 2. 支持屏蔽演员,加入黑名单,自动检测屏蔽后续作品
 
+# 🚕 如何运行
+1. 在谷歌Chrome浏览器上安装<a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey</a> 
+2. 安装<a href="https://github.com/t19527/JAV-JHS/raw/refs/heads/main/JAV-JHS-3.3.6.user.js" target="_blank">jhs脚本</a>
+3. 谷歌Chrome浏览器-扩展程序-管理扩展程序, 右上角选择启用开发者模式
 
 # 📜 更新记录
 ## JAV-JHS
+v3.4.5 设置-支持定时自动备份数据;
+
+v3.4.4 优化页面布局; 小屏幕自适应页面列数; 演员已加入黑名单时,鼠标悬浮提示所屏蔽的类型
+
+v3.4.3 已收藏女优头像大图展示; 兼容特殊番号在db和bus的展示不同,如MIUM-和300MIUM-、JAC-和390JAC-; 修复网络请求慢时,二次展开评论区|相关清单会误触发请求;
+
 v3.4.2 已收藏女优支持名字检索; 优化按钮样式; 重构bus导航栏自适应宽度
 
 v3.4.1 优化日志控制台json格式的展示; localStorage缓存溢出时自动清理
@@ -51,12 +61,9 @@ v3.3.8 支持JavDb|JavBus相互同步数据
 
 v3.3.7 收藏演员-支持快捷跳转bus对应演员页; 
 
-## JAV-JHS-Local
-V0.0.2 详情页匹配本地视频; 
-
-V0.0.1 本地视频一键归档; 本地视频检查缺失字幕; 快捷AI字幕生成;
-
 ## JAV-JHS-Beyond60
+v0.0.4 bus修复
+
 v0.0.3 类别搜索支持按月份检索; 兼容与JAV-JHS瀑布流,页面解析等接口的联动调用; 
 
 v0.0.2 破解演员详情页60页限制
